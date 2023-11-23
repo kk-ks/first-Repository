@@ -1,0 +1,4 @@
+com\kk\controller\LinkController.class
+com\kk\config\SecurityConfig.class
+com\kk\controller\CategoryController.class
+com\kk\controller\BloLoginController.class
